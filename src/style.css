@@ -1,0 +1,19 @@
+.btn-secondary {
+    background : linear-gradient(45deg, red, green) !important;
+}
+.img-fluid {
+    height: 200px;
+}
+.form-check {
+    margin: 0 0 0 27px;
+}
+.landing-page {
+   background: white url(./assets/image/card2.jpg) no-repeat center;
+   height: 100vh !important;
+   background-size: cover;
+   color: #fff;
+}
+.wrapper{
+height: 100%;
+background-color: rgba(0,0,0,0.7);
+}
